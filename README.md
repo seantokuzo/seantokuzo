@@ -2,10 +2,10 @@
 
 <h3>I'm a web developer, audio engineer and musician</h3>
 
-<a href="https://www.linkedin.com/in/sean-tokuzo" alt="Sean Simpson's LinkedIn">
+<a href="https://www.linkedin.com/in/sean-tokuzo" alt="Sean Simpson's LinkedIn" target="_blank" rel="noreferrer noopener" >
   <img alt="html5" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://seantokuzo.dev" alt="Sean Simpson's Portfolio">
+<a href="https://seantokuzo.dev" alt="Sean Simpson's Portfolio" target="_blank" rel="noreferrer noopener" >
   <img alt="html5" src="https://img.shields.io/badge/-My Portfolio-b077ba?style=for-the-badge&logoColor=white" />
 </a>
 <hr>
