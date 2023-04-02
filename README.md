@@ -14,7 +14,7 @@
     <h2>About</h2>
     <p></p>
   </div> -->
-  <div width="50%">
+  <div style="width: 50%">
   <h3>Technologies I use</h3>
     <div>
       <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -37,7 +37,7 @@
     <br>
     <div style="border: 1px solid #00000020"></div>
     <br>
-      <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=merko" />
-      <img width="500px" src="https://github-readme-stats.vercel.app/api?username=seantokuzo&show_icons=true&theme=merko" />
+      <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=merko" />
+      <img width="350px" src="https://github-readme-stats.vercel.app/api?username=seantokuzo&show_icons=true&theme=merko" />
   </div>
 </div>
