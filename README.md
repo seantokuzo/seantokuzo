@@ -37,8 +37,10 @@
     <br>
     <div style="border: 1px solid #00000020;"></div>
     <br>
-    <div style="display: flex; flex-direction: column;">
+    <div>
       <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=merko" />
+    </div>
+    <div>
       <img width="350px" src="https://github-readme-stats.vercel.app/api?username=seantokuzo&show_icons=true&theme=merko" />
     </div>
   </div>
