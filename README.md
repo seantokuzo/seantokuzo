@@ -9,12 +9,12 @@
   <img alt="html5" src="https://img.shields.io/badge/-My Portfolio-b077ba?style=for-the-badge&logoColor=white" />
 </a>
 <hr>
-<div style="width: 100%; display: flex;">
+<div style="width: 90%; display: flex;">
   <!-- <div style="width: 47%">
     <h2>About</h2>
     <p></p>
   </div> -->
-  <div style="width: 47%">
+  <div width="50%">
   <h3>Technologies I use</h3>
     <div>
       <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -34,10 +34,10 @@
       <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
       <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     </div>
+    <br>
     <div style="border: 1px solid #00000020"></div>
-    <div style="display: flex; flex-direction: column; align-items: center; margin-top: 1rem;">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=merko" />
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=seantokuzo&show_icons=true&theme=merko" />
-    </div>
+    <br>
+      <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=merko" />
+      <img width="500px" src="https://github-readme-stats.vercel.app/api?username=seantokuzo&show_icons=true&theme=merko" />
   </div>
 </div>
