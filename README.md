@@ -1,19 +1,15 @@
 <h1>Hello I'm Sean Simpson</h1>
 
-<h3>I'm a software engineer, audio engineer and musician</h3>
+<h3>I'm a software engineer @ McGraw Hill – ALEKS</h3>
 
 <a href="https://www.linkedin.com/in/sean-tokuzo" alt="Sean Simpson's LinkedIn" target="_blank" rel="noreferrer noopener" >
   <img alt="html5" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://seantokuzo.dev" alt="Sean Simpson's Portfolio" target="_blank" rel="noreferrer noopener" >
+<!-- <a href="https://seantokuzo.dev" alt="Sean Simpson's Portfolio" target="_blank" rel="noreferrer noopener" >
   <img alt="html5" src="https://img.shields.io/badge/-My Portfolio-b077ba?style=for-the-badge&logoColor=white" />
-</a>
-<hr>
-<div style="width: 90%; display: flex;">
-  <!-- <div style="width: 47%">
-    <h2>About</h2>
-    <p></p>
-  </div> -->
+</a> -->
+<!-- <hr> -->
+<!-- <div style="width: 90%; display: flex;">
   <div>
   <h3>Technologies I use</h3>
     <div width="400px">
@@ -33,7 +29,6 @@
       <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
       <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=typescript&logoColor=white" />
       <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-      <!-- <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white" /> -->
     </div>
     <br>
     <div style="border: 1px solid #00000020;"></div>
@@ -45,4 +40,4 @@
       <img width="350px" src="https://github-readme-stats.vercel.app/api?username=seantokuzo&show_icons=true&theme=merko" />
     </div>
   </div>
-</div>
+</div> -->
